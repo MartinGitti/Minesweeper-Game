@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/MartinGitti/Minesweeper-Game.git/static/css/main.03fc0267.chunk.css",
+    "main.js": "/MartinGitti/Minesweeper-Game.git/static/js/main.34908579.chunk.js",
+    "main.js.map": "/MartinGitti/Minesweeper-Game.git/static/js/main.34908579.chunk.js.map",
+    "runtime-main.js": "/MartinGitti/Minesweeper-Game.git/static/js/runtime-main.f5446c90.js",
+    "runtime-main.js.map": "/MartinGitti/Minesweeper-Game.git/static/js/runtime-main.f5446c90.js.map",
+    "static/js/2.36f2c207.chunk.js": "/MartinGitti/Minesweeper-Game.git/static/js/2.36f2c207.chunk.js",
+    "static/js/2.36f2c207.chunk.js.map": "/MartinGitti/Minesweeper-Game.git/static/js/2.36f2c207.chunk.js.map",
+    "index.html": "/MartinGitti/Minesweeper-Game.git/index.html",
+    "precache-manifest.346af9aeb9e1d48abc194f8f2aac7da9.js": "/MartinGitti/Minesweeper-Game.git/precache-manifest.346af9aeb9e1d48abc194f8f2aac7da9.js",
+    "service-worker.js": "/MartinGitti/Minesweeper-Game.git/service-worker.js",
+    "static/css/main.03fc0267.chunk.css.map": "/MartinGitti/Minesweeper-Game.git/static/css/main.03fc0267.chunk.css.map",
+    "static/js/2.36f2c207.chunk.js.LICENSE.txt": "/MartinGitti/Minesweeper-Game.git/static/js/2.36f2c207.chunk.js.LICENSE.txt",
+    "static/media/Stylesheet.css": "/MartinGitti/Minesweeper-Game.git/static/media/background.20addf16.jpg",
+    "static/media/bomb.png": "/MartinGitti/Minesweeper-Game.git/static/media/bomb.3d4bf63d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f5446c90.js",
+    "static/js/2.36f2c207.chunk.js",
+    "static/css/main.03fc0267.chunk.css",
+    "static/js/main.34908579.chunk.js"
+  ]
+}
