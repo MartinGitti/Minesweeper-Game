@@ -31,7 +31,7 @@ Minesweeper Game App created through React.
 # Demo #
 
 <div align="center">
- [![Watch the video](minesweeperDemo.mp4)
+ [![Watch the video](minesweeperDemo.mp4)]
 <img="/minesweeperDemo.mp4" alt="Demo of Minesweeper Game">
 <p>Demo Display :tv:</p>
 </div>
