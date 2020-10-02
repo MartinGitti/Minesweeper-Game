@@ -31,7 +31,7 @@ Minesweeper Game App created through React.
 # Demo #
 
 <div align="center">
-<img src='https://im3.ezgif.com/tmp/ezgif-3-54d6bd8ed1f5.gif' >
+<img src='Game Demo.mp4' >
 <p>Demo Display :tv:</p>
 </div>
 
