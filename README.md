@@ -42,6 +42,6 @@ Minesweeper Game App created through React.
 * After following the above steps, the app should automatically open up and be available to play.
 <hr/>
 
-<span> Happy Coding :sunglases: </span>
+<span> Happy Coding :sunglasses: </span>
   
 
