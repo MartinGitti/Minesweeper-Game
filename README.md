@@ -31,9 +31,9 @@ Minesweeper Game App created through React.
 # Demo #
 
 <div align="center">
-<p>Demo Display :tv:</p>
+ <p>Demo Display :tv:</p>
  <p>In order to view a demo of the game please click on the 'minesweeperDemo.mp4' file</p>
- 
+ <img src="Demo.mp4" alt="Demo of game">
 </div>
 
 ### How to install Minesweeper to your local drive:
