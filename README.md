@@ -39,6 +39,6 @@ Minesweeper Game App created through React.
 
 * cd to the root directory of the Minesweeper folder & type 'npm i' in the command terminal to download all the node-module files required for the app to run.
 * After the node-module files are installed, type 'npm start' to run the app. 
-* The app should automatically open up and be available to play.
+* After following the above steps, the app should automatically open up and be available to play.
   
 
