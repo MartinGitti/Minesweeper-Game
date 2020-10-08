@@ -26,9 +26,9 @@ Minesweeper Game App created using React.
 * If you happen to click on a tile that hold a hidden mine, the game will end. You can carry on playing by clicking on the face at the top of the board to reset the game which will allow you to play a new round of minesweeper. 
 
 * Open all the tiles that don't have a mine in order to win the round. Don't worry, you will get the hang of the game rather quickly.
-<hr/>
 
 ### Be smart, be calm and sweep past all the mines! ###
+<hr/>
 
 # Demo #
 
