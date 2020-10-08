@@ -34,9 +34,9 @@ Minesweeper Game App created through React.
  <p>Demo Display :tv:</p>
  <img src="minesweeperDemo.gif" alt="Demo of game">
 </div>
+<hr/>
 
 ### How to install Minesweeper to your local drive:
-
 * cd to the root directory of the Minesweeper folder & type 'npm i' in the command terminal to download all the node-module files required for the app to run.
 * After the node-module files are installed, type 'npm start' to run the app. 
 * After following the above steps, the app should automatically open up and be available to play.
