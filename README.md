@@ -1,5 +1,5 @@
 # Minesweeper-Game
-Minesweeper Game App created through React.
+Minesweeper Game App created using React.
 
 # Minesweeper #
 ## Goal of Minesweeper Game: ##
